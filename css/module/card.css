@@ -1,0 +1,26 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+.atroposes {
+    width: 100%;
+    display: flex;
+}
+
+.des-atropos{
+    width: 30%;
+    height: auto;
+    margin: 10px;
+}
+
+.card {
+    background-color: #290944;
+    border-radius: 8px;
+    padding: 8px;
+    margin: 16px;
+}
